@@ -1,6 +1,6 @@
 # Thirdday
 
-##User Story
+## User Story
 -This is week One of my new Coding Jounrey Day 3 of coding
 -Learning to test out our skills as coders
 -Challenge assignment to be prepared
